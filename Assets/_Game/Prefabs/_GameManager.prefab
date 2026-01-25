@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7942760183858916711}
   - component: {fileID: 5652573205446698490}
   m_Layer: 0
-  m_Name: PFB_GameManager
+  m_Name: _GameManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
