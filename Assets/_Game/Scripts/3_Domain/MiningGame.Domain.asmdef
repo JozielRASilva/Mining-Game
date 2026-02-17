@@ -1,0 +1,18 @@
+{
+    "name": "MiningGame.Domain",
+    "rootNamespace": "",
+    "references": [
+        "GUID:92bae7d5e6ddd9d49a824e0dce8529cd",
+        "GUID:294d459e2b6442941989972eb78ebaa8",
+        "GUID:cc61d897fe1e75a4abb9c0222462e9b1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+    "name": "MiningGame.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:92bae7d5e6ddd9d49a824e0dce8529cd",
+        "GUID:2eba342c37769ca41abbe19db58b6c58",
+        "GUID:c2030a1ce95cc4f41b018984cfc90ec6",
+        "GUID:1e04cd2390cdb7e4e881e4e974fee4f1",
+        "GUID:294d459e2b6442941989972eb78ebaa8",
+        "GUID:cc61d897fe1e75a4abb9c0222462e9b1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

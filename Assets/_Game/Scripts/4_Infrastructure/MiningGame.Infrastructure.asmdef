@@ -1,0 +1,16 @@
+{
+    "name": "MiningGame.Infrastructure",
+    "rootNamespace": "",
+    "references": [
+        "GUID:92bae7d5e6ddd9d49a824e0dce8529cd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
