@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 24ae0e5f7d0f2534a8bad48f643a3e1e, type: 3}
-  m_Name: MiningGridGlobalConfig
-  m_EditorClassIdentifier: 
-  <MaxNumberOfColumns>k__BackingField: 10
-  <MaxNumberOfRows>k__BackingField: 15
+  m_Script: {fileID: 11500000, guid: 926a7f7a0728914489ca86f8acec5e18, type: 3}
+  m_Name: MLC_Basic_5x5
+  m_EditorClassIdentifier: MiningGame.Infrastructure::MiningGame.Infrastructure.MineLayoutConfig
+  <LayoutID>k__BackingField: MINE_BASIC
+  <Cells>k__BackingField: []
